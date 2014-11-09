@@ -1,0 +1,4 @@
+# Created by .gitignore supp ort plugin (hsz.mobi)
+.DS_Store
+.idea
+*.pyc
